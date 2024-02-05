@@ -1,0 +1,10 @@
+Conference talks and posters
+
+- Improved inclusive cross-section measurement of a top quark in association with a Z boson at the CMS experiment, poster at EPS-HEP 2021, https://indico.desy.de/event/28202/contributions/105250/
+- CMS results of top quark electroweak production, including associated productions, talk at EPS-HEP 2021, 26 July 2021, https://indico.desy.de/event/28202/contributions/105768/
+- New tt$\gamma$ and tZq measurements in CMS, talk at EOS be.h Equinox Meeting, 9 September 2021, https://agenda.irmp.ucl.ac.be/event/4380/contributions/10071/
+- Inclusive and differential cross-section measurements of tZq at CMS, talk at LHC TOP WG Meeting, 1 December 2021, https://indico.cern.ch/event/1092350/contributions/4620343/
+- Machine learning techniques for data quality monitoring at the CMS detector}, poster at ACAT 2022, 25 October 2022, https://indico.cern.ch/event/1106990/contributions/5096921/
+- Prospects for automatic data quality monitoring at the CMS pixel detector, poster at 15th Pisa Meeting on Advanced Detectors, 24 May 2022, https://agenda.infn.it/event/22092/timetable/?view=standard#287-prospects-for-automatic-da
+- Prospects for automatic data quality monitoring at the CMS pixel detector, poster at EOS be.h Summer Solstice Meeting, 21 June 2022, https://indico.cern.ch/event/1159440/
+- Displaced vertex reconstruction with Ks and Lambda, talk at CMS Long-lived Exotica Workshop, 30 January 2020, https://indico.cern.ch/event/868576/contributions/3696635/ (restricted access)
